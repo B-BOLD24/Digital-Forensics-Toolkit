@@ -1,0 +1,5 @@
+FORENSIC CASE: CASE-001
+Evidence: suspicious_activity.log
+Contact: admin@evil.example
+Server IP: 192.168.13.37
+URL: http://malicious.example/payload

@@ -1,0 +1,24 @@
+{
+  "case_id": "FINAL-001",
+  "examiner": "Bhushan Wadikar",
+  "entries": [
+    {
+      "sequence": 1,
+      "timestamp": "2026-11-15 05:16:04 UTC",
+      "examiner": "Bhushan Wadikar",
+      "action": "Initial evidence acquisition and hashing",
+      "evidence": "final_demo\\suspicious_activity.log",
+      "notes": "Synthetic evidence collected for final demonstration",
+      "sha256": "924c2b797e091632ee0900588e1f4c628147490a0c8a64b39b5d9ec433bbc55d"
+    },
+    {
+      "sequence": 2,
+      "timestamp": "2026-11-15 05:16:07 UTC",
+      "examiner": "Bhushan Wadikar",
+      "action": "Metadata and IOC analysis completed",
+      "evidence": "final_demo\\suspicious_activity.log",
+      "notes": "Metadata extracted and IP, email, URL identified",
+      "sha256": "924c2b797e091632ee0900588e1f4c628147490a0c8a64b39b5d9ec433bbc55d"
+    }
+  ]
+}
